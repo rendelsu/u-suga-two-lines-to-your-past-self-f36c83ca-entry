@@ -1,3 +1,10 @@
+// Two Lines to Your Past Self (u-suga-two-lines-to-your-past-self-f36c83ca).
+// Judge criteria, in order: (1) line 1 warns the past self about one specific
+// moment, line 2 says why it mattered; (2) the moment is concrete enough to
+// picture (2 a.m., a resignation email, a failed deploy); (3) line 2 traces
+// real cause and effect (unsent email -> kept job -> paid for the house);
+// (4) the two lines work as one, no wasted words; (5) plain voice to one
+// specific person, not an audience. Entry: 2 lines, 168 characters.
 import { mkdirSync, writeFileSync, chmodSync } from "node:fs";
 import { join } from "node:path";
 
